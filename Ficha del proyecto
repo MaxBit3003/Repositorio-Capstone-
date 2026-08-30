@@ -1,0 +1,28 @@
+Ficha de Investigación: Desafío 09
+Proyecto: Modernización de la Red Comunitaria de Observadores y Pluviómetros Ciudadanos para la Gestión del Riesgo de Aluviones en San José de Maipo.
+1. Tema y Ámbito del Desafío
+El proyecto se enmarca en la Gestión del Riesgo de Desastres (GRD) y la integración de tecnologías de la información con la ciencia ciudadana. Específicamente, aborda el monitoreo hidrometeorológico preventivo frente a eventos de remoción en masa (aluviones, deslizamientos) mediante hardware de bajo costo.
+
+2. Contexto Territorial
+San José de Maipo es una de las comunas más extensas de la Región Metropolitana, caracterizada por su escarpada geografía andina y preandina. Los encajonados valles de fuertes pendientes y la degradación histórica del suelo la convierten en una zona altamente vulnerable.
+Eventos recientes, como el masivo aluvión de finales de enero de 2021 (causado por un río atmosférico y una isoterma cero inusualmente alta en verano), demostraron que las tormentas impactan a escala de cuenca, activando cientos de micro-cuencas simultáneamente y dejando a cientos de damnificados.
+
+3. Actores Involucrados (Stakeholders)
+Usuarios / Beneficiarios directos: Observadores ciudadanos locales y las comunidades que habitan en zonas de riesgo.
+Institucionales: SERNAGEOMIN (Departamento de Geología Aplicada y Recursos Geológicos), SENAPRED RM y la Municipalidad de San José de Maipo.
+
+4. Situación Problemática Inicial (Causas)
+Actualmente, existe una Red Comunitaria de Observadores que utiliza pluviómetros artesanales. El principal problema es que el registro de precipitaciones y observaciones en terreno es netamente manual y se encuentra disperso. En condiciones de tormenta, con la conectividad a internet intermitente o nula propia de la montaña, la consolidación de estos datos es demasiado lenta para tomar decisiones preventivas ágiles.
+
+5. Relevancia e Impacto del Proyecto
+Según SERNAGEOMIN, en el Cajón del Maipo existen aproximadamente 105 quebradas susceptibles a aluviones, y cerca de 50 de ellas cuentan con población expuesta. Automatizar la captura y almacenamiento de datos pluviométricos reducirá drásticamente el tiempo de respuesta y la incertidumbre. Un prototipo exitoso permitirá salvar vidas, alertando de manera temprana sobre la sobresaturación del terreno antes de que la remoción en masa alcance los asentamientos humanos.
+
+6. ¿Qué sabemos hasta ahora? (Evidencia)
+Es imprescindible automatizar el registro de datos para tener una ventaja temporal (alertar antes de que baje el flujo de barro y rocas).
+La solución técnica debe ser de bajo costo (hardware asequible) para que sea escalable al menos a 50 quebradas prioritarias y 100 observadores.
+El sistema debe contemplar un diseño operativo offline o de conectividad limitada (tecnologías como LoRaWAN, SMS, o dataloggers locales que se sincronicen asincrónicamente).
+
+7. ¿Qué no sabemos todavía? (Por investigar)
+¿Cuál es el índice de exactitud y confiabilidad térmica/pluviométrica de los sensores Arduino/IoT más económicos comparados con instrumentos meteorológicos profesionales?
+¿Cómo se garantizará la autonomía energética de estos pluviómetros inteligentes (paneles solares, baterías de larga duración) en zonas remotas durante temporales prolongados?
+¿Cuál es el umbral crítico de milímetros de lluvia por hora que debería disparar una alerta automática en la interfaz de la aplicación, según las características de suelo del Cajón del Maipo?
