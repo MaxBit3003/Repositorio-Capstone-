@@ -25,3 +25,6 @@ Con base en el análisis anterior, ideamos 3 propuestas conceptuales:
 1. **Pluviómetro de Pesaje IoT:** Dispositivo transportable y de bajo costo que mide por peso (kg) la cantidad de fluido. Sube datos en tiempo real a la nube e indica el peligro de la zona mediante colores (verde, amarillo, rojo).
 2. **Sistema de Red Offline:** Un mecanismo que permite registrar datos de forma local en caso de perder conectividad, enviándolos automáticamente apenas se restablezca la red.
 3. **Monitoreo Visual y Térmico 24/7:** Instalación de cámaras de monitoreo en los pluviómetros para eliminar el riesgo físico de los observadores humanos. Además, se agregará un registrador de temperatura para observar si se derrite la nieve.
+
+## 5. Preguntas para Video Llamada con SERNAGEOMIN
+- **Durante esta semana como grupo estuvimos creando y analizando el principal proposito de las preguntas de la video llamada a realizarse con el grupo SERNAGEOMIN
