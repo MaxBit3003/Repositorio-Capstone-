@@ -1,12 +1,12 @@
 # S01 - Contrato de Equipo y Minuta 1era Reunión
 **Fecha:** 24-08-2026
 **Participantes:** Maximiliano Ancán, Lukas Heap, María González, Omar Loayza.
-**Responsable del registro:** Maximiliano Ancán, Lukas Heap, María González.
+**Responsable del registro:** Maximiliano Ancán.
 
 ## 1. Minuta de la 1era Reunión
 * **Nombre del Equipo:** Hydrotech Maipo
 * **Foto del Equipo:**
-![Foto del equipo](imagenes/Imagen_grupo_1.jpeg)
+![Foto del equipo](imagenes/imagen.integrantes.grupo.jpeg)
 
 ## 2. Contrato de Equipo
 * **Valores del Equipo:** Compromiso, respeto, comunicación transparente y proactividad.
