@@ -6,7 +6,7 @@
 ## 1. Minuta de la 1era Reunión
 * **Nombre del Equipo:** Hydrotech Maipo
 * **Foto del Equipo:**
-![Foto del equipo](imagenes/imagen.integrantes.grupo.jpeg)
+![Foto del equipo](imagenes/S01/imagen.integrantes.grupo.jpeg)
 
 ## 2. Contrato de Equipo
 * **Valores del Equipo:** Compromiso, respeto, comunicación transparente y proactividad.
