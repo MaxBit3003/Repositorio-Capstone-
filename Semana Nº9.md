@@ -13,7 +13,7 @@
 
 ### 1. Integración Técnica del Geófono en el Diseño
 Se formalizó la inclusión de un **geófono** acoplado al terreno como elemento diferenciador de nuestra propuesta. Este instrumento de ingeniería captará las vibraciones acústicas de baja frecuencia (10 Hz - 50 Hz) generadas por el desplazamiento de masa antes de que el evento sea visible. 
-* **Acuerdo de instalación:** Se determinó que el geófono no irá en el mástil principal. Para evitar falsos positivos por la vibración del panel solar a causa del viento, se instalará de forma desacoplada, ya sea en un pozo somero (15-30 cm) o anclado a la roca madre, a 2 o 3 metros de distancia del nodo ESP32.
+* **Acuerdo de instalación:** Se determinó que el geófono no irá en el mástil principal. Para evitar falsos positivos por la vibración del panel solar a causa del viento, se instalará de forma desacoplada en un pozo somero de 20 cm aproximadamente y a 3 metros de distancia del nodo ESP32.
 
 ### 2. Definición de Umbrales Hídricos para el Semáforo LED
 Se establecieron los parámetros técnicos que activarán la alerta visual in situ, basándonos en la capacidad de infiltración y saturación del suelo en cuencas de alta pendiente:
