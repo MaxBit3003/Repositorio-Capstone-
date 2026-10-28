@@ -6,7 +6,7 @@
 
 ## Objetivos de la Semana
 - Consolidar la investigación, el diseño técnico y el modelo operativo en el Informe Intermedio de Capstone.
-- Sintetizar la propuesta de valor, la arquitectura IoT y el plan de implementación en un Pitch Deck de alto impacto.
+- Sintetizar la propuesta de valor, la arquitectura IoT y el plan de implementación en un Pitch a presentar el 27 de Octubre 
 - Defender exitosamente la viabilidad técnica y económica del proyecto ante la comisión evaluadora.
 - Definir los requerimientos materiales, digitales e institucionales para el inicio de la fase de construcción en noviembre.
 
