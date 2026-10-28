@@ -12,7 +12,7 @@
 
 ## Actividades Realizadas y Acuerdos Técnicos
 
-### 1. Redacción y Estructuración del Informe Intermedio (26 páginas)
+### 1. Redacción y Estructuración del Informe Intermedio
 Se consolidó todo el trabajo del semestre en el documento oficial de ingeniería (Capstone Intermedio). Las secciones clave desarrolladas y pulidas incluyeron:
 - **Modelo de uso e implementación:** Definición de los roles comunitarios (observadores locales) e institucionales (GRD municipal, SENAPRED, SERNAGEOMIN).
 - **Diseño Técnico:** Detalle exhaustivo de la capa física (ESP32, pluviómetro HX711, geófono desacoplado para evitar falsos positivos por viento, RTC DS1307, módulo LoRaWAN y MicroSD para resiliencia offline).
