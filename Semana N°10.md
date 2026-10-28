@@ -27,14 +27,14 @@ Se elaboró el material de apoyo visual para la presentación de Capstone, logra
 
 ### 3. Defensa del Proyecto (Hito Capstone Intermedio)
 El equipo presentó oficialmente el proyecto HYDROTECH ante la clase y la profesora. 
-- **Resultado:** Defensa exitosa. Se logró comunicar efectivamente el altísimo valor social y la robustez ingenieril de la propuesta, obteniendo luz verde para avanzar hacia la fase de construcción y ensamble de hardware.
+- **Resultado:** Defensa exitosa. Se logró comunicar efectivamente el altísimo valor social y la robustez ingenieril de la propuesta, obteniendo el feedback correspondiente de la profesora para poder cerrar la Unidad n°2 de la asignatura Capstone y poder dar comienzo a la Unidad n°3 de construcción del prototipo. 
 
-### 4. Resolución de Recursos y Permisos Indispensables para el Arranque
+### 4. Resolución de Recursos y Permisos Indispensables para el Arranque 
 Se dio respuesta estructurada a los requerimientos críticos para iniciar las actividades prácticas:
 - **Hardware Fundamental:** Se determinó que lo primero y más urgente es adquirir la balanza (celda de carga) y el microcontrolador ESP32. 
-- **Componentes de Soporte:** A la par, se requiere contar con el geófono, el reloj RTC, el módulo MicroSD y el panel solar para la autonomía energética.
-- **Software y Normativa:** Es indispensable disponer de las líneas de código en Python (para el pipeline de datos) y alinear la instalación con los protocolos oficiales de SERNAGEOMIN.
-- **Acuerdo de Instalación:** La obtención y calibración de todos estos recursos permitirá proceder con la instalación física del prototipo en terreno durante la última semana del mes (noviembre).
+- **Componentes de Soporte:** A la par, se requiere contar con el geófono, el reloj RTC, el módulo MicroSD, Leds y el panel solar para la autonomía energética.
+- **Software y Normativa:** Es indispensable disponer de las líneas de código en Python (para el pipeline de datos) y alinear la instalación con los protocolos oficiales de SERNAGEOMIN. 
+- **Acuerdo de Instalación:** La obtención y calibración de todos estos recursos permitirá proceder con la instalación física del prototipo en un terreno determinado durante la última semana del mes (noviembre). 
 
 ## Próximos Pasos (Plan de Noviembre)
 - **Fase de Hardware:** Transición del prototipo digital (Wokwi) al nodo físico, asegurando la adquisición de los componentes listados.
