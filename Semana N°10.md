@@ -26,7 +26,7 @@ Se elaboró el material de apoyo visual para la presentación de Capstone, logra
 - **Evidencia del Prototipo Digital:** Inclusión de las validaciones lógicas desarrolladas en simulador (Wokwi) y los dashboards de prueba generados mediante scripts de Python y SQLite (Google Colab).
 
 ### 3. Defensa del Proyecto (Hito Capstone Intermedio)
-El equipo presentó oficialmente el proyecto HYDROTECH ante la comisión de la universidad. 
+El equipo presentó oficialmente el proyecto HYDROTECH ante la clase y la profesora. 
 - **Resultado:** Defensa exitosa. Se logró comunicar efectivamente el altísimo valor social y la robustez ingenieril de la propuesta, obteniendo luz verde para avanzar hacia la fase de construcción y ensamble de hardware.
 
 ### 4. Resolución de Recursos y Permisos Indispensables para el Arranque
