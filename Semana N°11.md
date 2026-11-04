@@ -11,14 +11,14 @@ Comenzamos la jornada con un desafío de construcción ágil.
 * **Restricción:** Tiempo límite de 18 minutos.
 * **Aprendizaje:** Esta actividad nos permitió practicar el trabajo bajo presión, la gestión de recursos limitados y la creación rápida de prototipos físicos, habilidades clave para la construcción de nuestro nodo de monitoreo.
 
-### 2. Entrega de Equipamiento (Kit IoT) 📦
+### 2. Entrega de Equipamiento (Kit de accesorios electronicos)
 Recibimos oficialmente el hardware con el que construiremos el prototipo físico para Capstone. El kit incluye:
 * Microcontrolador ESP32.
 * LEDs (para simular el "semáforo" de estados de nuestro sistema).
 * Protoboard y cables jumper.
 * Cargador y batería recargable.
 
-### 3. Resolución de Dudas y Ajuste de Alcance 🎯
+### 3. Resolución de Dudas y Ajuste de Alcance 
 Revisamos consultas pendientes y, tomando en cuenta la retroalimentación reciente del informe de la Unidad 2, acordamos aterrizar nuestras expectativas para el mes que queda. Nos enfocaremos en validar **tres componentes principales**: 
 1. Medición de precipitaciones (simulada con cantidades conocidas de agua).
 2. Almacenamiento local confiable.
@@ -27,7 +27,7 @@ Revisamos consultas pendientes y, tomando en cuenta la retroalimentación recien
 
 ---
 
-## 🗓️ Planificación y Roles (Noviembre)
+## Planificación y Roles (Noviembre)
 De cara a la feria del 3 de diciembre, distribuimos las responsabilidades para las próximas 4 semanas:
 
 * **Semana 1 (2 al 8 de nov): Calibración Inicial**
