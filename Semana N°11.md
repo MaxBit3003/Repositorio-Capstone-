@@ -1,10 +1,10 @@
-# Bitácora de Proyecto: HydroTech 💧🏔️
+# Bitácora de Proyecto: HydroTech 
 **Fecha:** 3 de noviembre de 2026  
 **Ubicación/Contexto:** Preparación para Feria Capstone (3 de diciembre)
 
-## 📌 Actividades de la Sesión
+## Actividades de la Sesión
 
-### 1. Dinámica de Trabajo en Equipo: "El Reto del Marshmallow" 🍝
+### 1. Dinámica de Trabajo en Equipo: "La actividad del Marshmallow"
 Comenzamos la jornada con un desafío de construcción ágil. 
 * **Objetivo:** Construir la torre más alta posible capaz de sostener un marshmallow en la cima, evaluando la resistencia y flexión de las estructuras.
 * **Materiales:** 18 tiras de fideos, cinta adhesiva y 1 marshmallow.
