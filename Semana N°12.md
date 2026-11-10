@@ -21,7 +21,7 @@ Además, dejamos consolidados los roles del equipo de cara a la Feria Capstone (
 Participamos en un desafío de diseño estructural y amortiguación para poner a prueba nuestra creatividad con materiales limitados.
 
 *   **Objetivo:** Proteger un huevo de una caída libre desde **3 metros** de altura.
-*   **Materiales utilizados:** Media botella de plástico (Kem Zero), toalla Nova, papel, goma eva, bombillas, plástico de burbujas, cinta masking tape, bolsa Ziploc y una bolsa de Rappi que adaptamos como paracaídas.
+*   **Materiales utilizados:** Media botella de plástico (Kem Zero), toalla Nova, papel, goma eva, bombillas, plástico de burbujas, cinta masking tape, bolsa Ziploc, hilo y una bolsa de Rappi que adaptamos como paracaídas.
 *   **Resultados:** ¡Amortiguación exitosa! El huevo aterrizó completamente **intacto**.
 *   **Aprendizajes:** Comprobamos que con pocos materiales bien distribuidos se puede absorber un gran impacto. Como oportunidad de mejora, en una próxima versión colocaríamos el huevo en posición vertical para distribuir mejor las fuerzas.
 
