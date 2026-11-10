@@ -38,6 +38,6 @@ Trabajamos intensamente en el ensamblaje de nuestro primer prototipo físico fun
     *   Todo el sistema está siendo alimentado de forma autónoma mediante una pila.
 *   **Transmisión de Datos:** ¡Logramos telemetría básica! El sistema arroja los datos leídos por la celda de carga directamente a la pantalla LCD y los transmite al teléfono celular en tiempo real, con una latencia muy baja (se demora entre 5 a 10 segundos en reflejar la lectura).
 
-## 🚀 Próximos Pasos
+## Próximos Pasos
 
-Nuestro objetivo principal ahora es afinar la precisión frente a volúmenes conocidos (buscando un error ≤10%) y comenzar a integrar la lógica de los LEDs (semáforo de estados experimentales) y el almacenamiento local en microSD.
+Nuestro objetivo principal ahora es afinar la precisión frente a volúmenes conocidos (buscando un error ≤10%) y comenzar a integrar la lógica de los LEDs (semáforo de estados experimentales) y el almacenamiento local en microSD y también poder definir la estabilidad de la estructura construida.
