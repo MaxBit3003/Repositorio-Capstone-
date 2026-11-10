@@ -8,7 +8,7 @@
 
 ### 1. Presentación de Avances y Definición de Roles 📊
 
-Hoy presentamos oficialmente nuestro documento de avance ("HYDROTECH Capstone.pdf"), pasando de la simulación teórica (Wokwi) al primer montaje físico de nuestra red de monitoreo pluviométrico. 
+Hoy presentamos oficialmente nuestro documento de avance, pasando de la simulación teórica del Wokwi al primer montaje físico de nuestra red de monitoreo pluviométrico. 
 
 Además, dejamos consolidados los roles del equipo de cara a la Feria Capstone (3 de diciembre):
 *   **Maximiliano Ancán:** Lidera el Pitch (problema, solución, impacto y viabilidad).
