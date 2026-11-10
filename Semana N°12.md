@@ -2,7 +2,7 @@
 
 **Fecha:** 10 de noviembre de 2026
 
-**Ubicación/Contexto:** Avance de Prototipo Fase 1 y Presentación Intermedia
+**Contexto:** Avance de Prototipo Fase 1 y Presentación Intermedia
 
 ## 📌 Actividades de la Sesión
 
