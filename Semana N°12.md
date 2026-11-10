@@ -16,16 +16,16 @@ Además, dejamos consolidados los roles del equipo de cara a la Feria Capstone (
 *   **Omar Loayza:** Encargado del Hardware (embudo, celda de carga, montaje físico y seguridad).
 *   **María González:** Coordinación general (afiche, recepción de visitantes y logística del stand).
 
-### 2. Dinámica de Trabajo: "Egg Drop Challenge" 🥚🪂
+### 2. Dinámica de Trabajo: "Egg Drop Challenge" 
 
 Participamos en un desafío de diseño estructural y amortiguación para poner a prueba nuestra creatividad con materiales limitados.
 
 *   **Objetivo:** Proteger un huevo de una caída libre desde **3 metros** de altura.
 *   **Materiales utilizados:** Media botella de plástico (Kem Zero), toalla Nova, papel, goma eva, bombillas, plástico de burbujas, cinta masking tape, bolsa Ziploc, hilo y una bolsa de Rappi que adaptamos como paracaídas.
 *   **Resultados:** ¡Amortiguación exitosa! El huevo aterrizó completamente **intacto**.
-*   **Aprendizajes:** Comprobamos que con pocos materiales bien distribuidos se puede absorber un gran impacto. Como oportunidad de mejora, en una próxima versión colocaríamos el huevo en posición vertical para distribuir mejor las fuerzas.
+*   **Aprendizajes:** Comprobamos que con pocos materiales bien distribuidos se puede absorber un gran impacto. Como oportunidad de mejora, en una próxima versión colocaríamos el huevo en posición vertical para distribuir mejor las fuerzas y proteger aún mas el huevo.
 
-### 3. Construcción del Prototipo - Fase 1 🌧️💻
+### 3. Construcción del Prototipo - Fase 1 
 
 Trabajamos intensamente en el ensamblaje de nuestro primer prototipo físico funcional (nodo pluviométrico), logrando integrar la mecánica y la electrónica:
 
