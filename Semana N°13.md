@@ -1,7 +1,7 @@
 # 🪵 Bitácora de Desarrollo: HydroTech 3D (Cajón del Maipo)
 
-> **Repositorio Oficial / Bitácora de Proyecto**  
-> **Contexto:** Estación de monitoreo hidrológico portátil y autonivelante diseñada para condiciones de terreno exigentes en el Cajón del Maipo.
+> **Bitácora de Proyecto**  
+> **Contexto:** Estación de monitoreo hidrológico portátil y autonivelante diseñada para condiciones de terreno complicadas en el Cajón del Maipo.
 
 ---
 
