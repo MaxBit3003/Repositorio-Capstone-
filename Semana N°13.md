@@ -14,7 +14,7 @@ El proyecto **HydroTech 3D** surge de la necesidad de desplegar estaciones de mo
 En la fase inicial de diseño conceptual y modelado en colaboración con inteligencia artificial, se definieron los siguientes componentes estructurales y electrónicos principales:
 
 *   **Caja principal:** Estructura monolítica de piso y tres paredes optimizada para impresión en **PETG**.
-*   **Panel frontal:** Acrílico transparente de $3~mm$ cortado por láser, albergando la pantalla LCD y los indicadores de estado (nivel medio, intensidad de $3.0~\text{mm/h}$, acumulado de $8.72~\text{mm}$, y masa censada de $55.5~\text{g}$).
+*   **Panel frontal:** Acrílico transparente de $3mm$ cortado por láser, albergando la pantalla LCD y los indicadores de estado (nivel medio, intensidad de $3.0\text{mm/h}$, acumulado de $8.72\text{mm}$, y masa censada de $55.5\text{g}$).
 *   **Sistema de pesaje:** Celda de carga de aluminio equipada con galgas extensiométricas para la medición dinámica del volumen de agua recolectado en el embudo superior.
 *   **Tapa con falda:** Elemento superior sellado que incorpora un nivel de burbuja integrado para una rápida comprobación visual de la horizontalidad en campo.
 
