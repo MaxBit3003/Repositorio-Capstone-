@@ -1,6 +1,6 @@
 # 🪵 Bitácora de Desarrollo: HydroTech 3D (Cajón del Maipo)
 
-> **Bitácora de Proyecto**  
+> **Bitácora 17 de Noviembre**  
 > **Contexto:** Estación de monitoreo hidrológico portátil y autonivelante diseñada para condiciones de terreno complicadas en el Cajón del Maipo.
 
 ---
@@ -52,3 +52,32 @@ Para garantizar la resistencia mecánica a la intemperie y la funcionalidad de l
 1. **Pre-ensamblaje:** Enroscar las 4 bases estaca (**Pieza B**) a media altura en los esquineros principales (**Pieza A**).
 2. **Anclaje:** Encajar los 4 esquineros en la placa objetivo de $17 \times 17~\text{cm}$ y presionar firmemente de forma vertical para clavar las estacas en cruz en la tierra hasta que los platos base de $\emptyset 55~\text{mm}$ hagan tope con el suelo.
 3. **Nivelación Fina:** Girar cada rueda moleteada para ajustar la altura de manera independiente hasta centrar la burbuja del nivel integrado en la tapa.
+
+## Bitácora — 19 de noviembre de 2026
+
+### Resumen del avance
+Hoy se trabajó en el diseño paramétrico en CadQuery (en Google Colab), validación geométrica con `trimesh`, visualización de mallas en ViewSTL y definición funcional de componentes clave para el nodo pluviométrico **HydroTech**[cite: 2, 10, 11].
+
+### Actividades y decisiones técnicas
+* **Base de la caja con ranura deslizable para acrílico**: se ajustó el diseño para mantener el piso, las 3 paredes (laterales y trasera), el pedestal para la celda de carga y la parte frontal abierta con una ranura inferior donde desliza el panel acrílico de 3 mm[cite: 3].
+* **Platos de pata para feria (sin estaca)**: se evaluó el uso de platos planos para apoyo en mesa durante ferias/presentaciones, recomendando mejorar la sujeción del tornillo M20 y añadir base antideslizante para mayor estabilidad lateral.
+* **Subconjunto superior (poste central, faldita tipo paraguas y plataforma superior)**: se definió mantener el poste y la plataforma superior por separado para facilitar el montaje, la orientación/resistencia en impresión 3D y la impresión sin soportes, y se modeló la faldita tipo paraguas como botaguas sin contacto con la tapa para no interferir en la medición de la celda de carga[cite: 4, 5, 6].
+* **Nivel de burbuja**: se documentó su rol para verificar la horizontalidad del equipo tanto en terreno como en feria y lograr lecturas consistentes y buena alineación del conjunto[cite: 7].
+* **Reparación de `Pieza_A_Esquinero_Tornillo_M20.stl`**: se reemplazó el barrido helicoidal que generaba malla abierta (`Cerrada: False`) y volumen anómalo (`1.6 cm³`) por una construcción sólida con filetes anulares, logrando `Cerrada: True` y un volumen de `31.5 cm³`[cite: 10, 11, 13].
+* **Cálculo de volumen, gramaje estimado y dimensiones**: se instaló `trimesh` en Google Colab y se verificaron volúmenes, pesos teóricos sólidos, estimaciones orientativas al ~45% y dimensiones en mm de los 8 archivos `.stl` generados[cite: 9, 10, 13].
+
+### Archivos `.stl` validados en Colab (`Cerrada: True`)
+| Archivo STL | Volumen ($\text{cm}^3$) | Peso sólido (100%) | Estimación (~45%) | Estado malla |
+| :--- | :---: | :---: | :---: | :---: |
+| `Pieza_1_Base_Caja.stl` | `254.2` | `317.7 g` | `143.0 g` | `True`[cite: 13] |
+| `Pieza_2_Tapa_Falda.stl` | `96.4` | `120.5 g` | `54.2 g` | `True`[cite: 13] |
+| `Pieza_5_Plato_Pata_Feria.stl` | `21.7` | `27.1 g` | `12.2 g` | `True`[cite: 13] |
+| `Pieza_A_Esquinero_Tornillo_M20.stl` | `31.5` | `39.3 g` | `17.7 g` | `True`[cite: 13] |
+| `Pieza_B_Base_Estaca_Rueda_M20.stl` | `40.0` | `50.0 g` | `22.5 g` | `True`[cite: 13] |
+| `Plataforma_Superior.stl` | `44.2` | `55.2 g` | `24.9 g` | `True`[cite: 13] |
+| `Poste_Central.stl` | `16.8` | `21.0 g` | `9.5 g` | `True`[cite: 13] |
+| `Faldita_Paraguas.stl` | `5.4` | `6.7 g` | `3.0 g` | `True`[cite: 13] |
+
+### Próximos pasos
+* Confirmar gramajes reales y tiempos de impresión en el *slicer* según material (PETG/ASA), paredes y porcentajes de relleno de cada pieza[cite: 2, 3, 5].
+* Preparar las piezas restantes del listado final y avanzar con la impresión y pruebas de encaje.
